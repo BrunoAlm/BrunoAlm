@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BrunoAlm
 - 👀 I’m interested in programing languages
 - 🌱 I’m currently learning Flutter
+[![Repos Badge](https://badges.pufler.dev/repos/brunoalm)](https://badges.pufler.dev)
 
-![Snake animation](https://github.com/brunoalm/brunoalm/blob/output/github-contribution-grid-snake.svg)
